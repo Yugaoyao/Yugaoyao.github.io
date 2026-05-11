@@ -10,8 +10,9 @@ categories: [collection]
 ---
 
 ## Awesome Scientific Research Figures
-> Line: [chemistry1](https://mp.weixin.qq.com/s/3Eu7ahCZfSpec6oW2aVw2g)
-
+> Link: [chemistry1](https://mp.weixin.qq.com/s/3Eu7ahCZfSpec6oW2aVw2g)
+> Link: [chemistry2](https://mp.weixin.qq.com/s/-WXVySLCOA61aYvT2iTNIQ)
 > Link: [Image Edit1](https://mp.weixin.qq.com/s/OnvczHhyKP0lPf8fmzrFuw)
- 
-<!--![Alt text](/assets/img/papers/collections/847d792689eb8296db7f403e9c624421.png)-->
+> 
+<!--![Alt text](/assets/img/papers/collections/847d792689eb8296db7f403e9c624421.png)
+![Alt text](/assets/img/papers/collections/image.png)
