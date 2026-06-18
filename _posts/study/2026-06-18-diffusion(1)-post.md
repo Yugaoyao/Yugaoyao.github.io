@@ -3,7 +3,9 @@ title: 扩散模型理解
 date: 2026-06-18 00:00:00 +0800
 categories: [study]
 tags: [diffusion, diffusion model, diffusion process]
+pin: true
 math: true
+mermaid: true
 ---
 
 ## Diffusion 公式基础讲解
