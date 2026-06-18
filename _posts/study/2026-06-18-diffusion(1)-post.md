@@ -1,3 +1,11 @@
+---
+title: 扩散模型理解
+date: 2026-06-18 00:00:00 +0800
+categories: [study]
+tags: [diffusion, diffusion model, diffusion process]
+math: true
+---
+
 ## Diffusion 公式基础讲解
 ### 1. Diffusion 过程
 Diffusion 过程可以看作是高斯噪声逐渐添加到图像上的过程。假设我们有一个图像 $x$，我们希望将其添加噪声，使其变为 $x_t$。这个过程可以看作是一个马尔可夫过程，即 $x_t$ 只依赖于 $x_{t-1}$。
