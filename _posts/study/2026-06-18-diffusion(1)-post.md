@@ -116,9 +116,11 @@ $$
 但我们可以根据1.1中的公式，推导出$x_0$:
 
 $$
+\begin{aligned}
 x_t = \sqrt{\bar{\alpha_t}}x_0 + \sqrt{1-\bar{\alpha}}\epsilon_t \\
 \Rightarrow x_0 = \frac{x_t - \sqrt{1-\bar{\alpha_t}}\epsilon_t}{\sqrt{\bar{\alpha_t}}} \\
 \Rightarrow \frac{\sqrt{\alpha_t(1-\bar{\alpha_{t-1}})}x_t + \sqrt{\bar{\alpha_{t-1}}}(1-\alpha_t)x_0}{1-\bar{\alpha_t}} = \frac{1}{\sqrt{\alpha_t}}(x_t - \frac{1-\alpha_t}{\sqrt{1-\bar{\alpha_t}}}\epsilon_t)
+\end{aligned}
 $$
 
 这里，我们只需要学习$\epsilon_t$即可完成整个推理过程。
